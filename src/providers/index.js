@@ -1,4 +1,4 @@
-const Providers = (children) => {
+const Providers = ({children}) => {
   return (
     <>
       {children}
